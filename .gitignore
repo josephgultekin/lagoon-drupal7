@@ -1,0 +1,6 @@
+# Ignore local sites and settings
+sites/*/settings*.php
+sites/*/services*.yml
+
+# IDEs
+.idea
